@@ -7,7 +7,7 @@ I work on production ML and GenAI systems — from data pipelines and model trai
 ## 🌐 Find me
 
 - Portfolio: [hsahni55h.github.io](https://hsahni55h.github.io)
-- LinkedIn: [add your link]
+- LinkedIn: [[add your link](https://www.linkedin.com/in/himanshu-sahni07/)]
 
 ---
 📍 Sweden · 📸 Also into drone photography when not writing code
