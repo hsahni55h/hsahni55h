@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Himanshu 👋
 
-<!--
-**hsahni55h/hsahni55h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist at Volvo Group | Production ML, Generative AI & Enterprise AI Systems
 
-Here are some ideas to get you started:
+I work on production ML and GenAI systems — from data pipelines and model training through to deployment. Background in robotics software engineering before moving into data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Find me
+
+- Portfolio: [hsahni55h.github.io](https://hsahni55h.github.io)
+- LinkedIn: [add your link]
+
+---
+📍 Sweden · 📸 Also into drone photography when not writing code
