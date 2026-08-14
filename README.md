@@ -1,4 +1,4 @@
-# Hi, I'm Himanshu 👋
+# Hi, I'm Himanshu 
 
 Data Scientist at Volvo Group | Production ML, Generative AI & Enterprise AI Systems
 
